@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShakeDetection</string>
+    <string name="start">Start</string>
+    <string name="acc_xyz">Accelerations will appear here</string>
+    <string name="stop">Stop</string>
+    <string name="airPressure">Want to see Air Pressure?</string>
+    <string name="barometer">Show Me!</string>
+<!--    <string name="airPressure">Want to see Air Pressure?</string>-->
+    <string name="camera">Click Photo!</string>
+    <string name="audio">Click Photo!</string>
+    <string name="isShake">Shake Status appears here</string>
+</resources>

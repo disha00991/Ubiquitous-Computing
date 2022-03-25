@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class_demo</string>
+    <string name="start">Start</string>
+    <string name="acc_xyz">Accelerations will appear here</string>
+    <string name="stop">Stop</string>
+    <string name="isShake">Shake Status appears here</string>
+</resources>
